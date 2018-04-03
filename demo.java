@@ -2,4 +2,5 @@
 void Add()
 void Sub()
 void mul()
-void res()	
+void res()
+vara=1
