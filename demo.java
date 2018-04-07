@@ -7,4 +7,4 @@ void res()
 =======
 addition
 sub
->>>>>>> master
+
